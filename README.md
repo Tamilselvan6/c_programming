@@ -4,7 +4,7 @@ Welcome to the C Programs repository! This collection includes various C program
 
 ## Programs
 
-
+### Task 1: Swaps two numbers without using a temporary variable
 1. **File:** `swap_numbers.c`
    - **Description:**
      This program swaps two numbers without using a temporary variable. It takes two integer inputs, performs the swap, and displays the updated values.
