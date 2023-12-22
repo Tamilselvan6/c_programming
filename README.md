@@ -33,7 +33,23 @@ Welcome to the C Programs repository! This collection includes various C program
    - **File:** `project_completion.c`
    - **Description:**
      This program calculates whether a firm can finish a project on time. It takes the total number of hours needed, the number of days, and the number of workers as input. The program considers training days, normal working hours, and overtime to determine if the project can be completed on time.
-     
+
+### Task 7: Calculate the area of square or circle
+   - **File:** `area_calculation.c`
+   - **Description:**
+     This program calculates the area of a square or circle based on the user's input. It prompts the user to enter the shape ('S' for Square or 'C' for Circle) and the size, and then computes and displays the corresponding area.
+  
+### Task 8: Print elements with frequency more than one appearance
+   - **File:** `frequency_elements_count.c`
+   - **Description:**
+     This program takes a sorted array with duplicate elements and prints elements with their frequency when the frequency is more than one appearance.
+
+### Task 9: Justify the sentence according to the screen length
+
+   - **File:** `justify_sentence.c`
+   - **Description:**
+     This program justifies a sentence according to the specified screen length by replacing spaces with stars. It takes a sentence and the screen length as input.
+  
 Feel free to explore each program's source code to understand its functionality and purpose.
 
 ## How to Run
