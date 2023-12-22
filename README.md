@@ -66,8 +66,8 @@ To compile and run the C programs, follow these general instructions:
 
 3. **Compile and Run:**
    ```bash
-   gcc program1.c -o program1
-   ./program1
+   gcc swap_numbers.c -o swap_numbers
+   ./swap_numbers
 
 ## Contributors
 
