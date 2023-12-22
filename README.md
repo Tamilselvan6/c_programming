@@ -49,7 +49,25 @@ Welcome to the C Programs repository! This collection includes various C program
    - **File:** `justify_sentence.c`
    - **Description:**
      This program justifies a sentence according to the specified screen length by replacing spaces with stars. It takes a sentence and the screen length as input.
-  
+     
+### Task 10: Get values from the user and display a 3x3 matrix 
+   - **File:** `matrix_display.c`
+   - **Description:**
+     This program gets values from the user and stores them in a 3x3 matrix. It then displays the matrix.
+
+### Task 11: Write a program to generate the output
+   - **File:** `generate_output.c`
+   - **Description:**
+     This program takes input strings in a specific format and generates the corresponding output by repeating characters based on the given numeric values.
+
+### Task 12: Print the pattern without using arrays
+
+   - **File:** `print_pattern.c`
+   - **Description:**
+     This program prints a specific pattern without using arrays. It produces a triangular pattern of numbers.
+
+Feel free to explore each program's source code to understand its functionality and purpose.
+
 Feel free to explore each program's source code to understand its functionality and purpose.
 
 ## How to Run
