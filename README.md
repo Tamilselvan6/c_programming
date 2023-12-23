@@ -66,8 +66,54 @@ Welcome to the C Programs repository! This collection includes various C program
    - **Description:**
      This program prints a specific pattern without using arrays. It produces a triangular pattern of numbers.
 
-Feel free to explore each program's source code to understand its functionality and purpose.
+### Task 13: Increment Large Integer
+   - **File:** `increment_large_integer.c`
+   - **Description:**
+     Increment a large integer represented as an array of digits by one and return the resulting array.
+   - **Sample Output:**
+     ```plaintext
+     Example 1:
+     Input: [1, 2, 3]
+     Output: [1, 2, 4]
 
+     Example 2:
+     Input: [9]
+     Output: [1, 0]
+     ```
+
+### Task 14: Jump Game
+   - **File:** `jump_game.c`
+   - **Description:**
+     Determine if you can reach the last index of an array based on the maximum jump length at each position.
+   - **Sample Output:**
+     ```plaintext
+     Example 1:
+     Input: [2, 3, 1, 1, 4]
+     Output: true
+
+     Example 2:
+     Input: [3, 2, 1, 0, 4]
+     Output: false
+     ```
+
+### Task 15: Maximum Subarray Sum
+   - **File:** `maximum_subarray_sum.c`
+   - **Description:**
+     Find the subarray with the largest sum in an integer array.
+   - **Sample Output:**
+     ```plaintext
+     Example 1:
+     Input: [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+     Output: 6
+
+     Example 2:
+     Input: [1]
+     Output: 1
+
+     Example 3:
+     Input: [5, 4, -1, 7, 8]
+     Output: 23
+     ```
 Feel free to explore each program's source code to understand its functionality and purpose.
 
 ## How to Run
