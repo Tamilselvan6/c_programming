@@ -114,6 +114,70 @@ Welcome to the C Programs repository! This collection includes various C program
      Input: [5, 4, -1, 7, 8]
      Output: 23
      ```
+
+### Task 16: Check Anagram
+
+- **File:** `checkanagram.c`
+- **Description:**
+  This program checks if two input strings are anagrams. It compares the characters in both strings and determines if they contain the same characters with the same frequencies.
+
+### Task 17: Longest Common Prefix
+
+- **File:** `longest_common_prefix.c`
+- **Description:**
+  This program finds the longest common prefix among an array of strings. It compares characters at the same position in all strings and determines the common prefix.
+
+### Task 18: Phone Number Letter Combinations
+
+- **File:** `phone_number.c`
+- **Description:**
+  This program generates all possible letter combinations that can be formed by entering digits on a phone keypad. It uses backtracking to explore all combinations.
+
+
+### Task 19: Find Duplicates in an Array
+
+- **File:** `Duplicates in an Array.c`
+- **Description:**
+  This program finds and prints duplicate elements in an array. It uses an array to count the occurrences of each element and identifies duplicates.
+
+### Task 20: Swapping of Two Numbers
+
+#### a) Call By Value
+
+- **File:** `Swapping of Two Numbers.c`
+- **Description:**
+  This program demonstrates swapping of two numbers using the call-by-value method. It defines a function `swapByValue` that exchanges the values of two variables.
+
+#### b) Call By Reference
+
+- **File:** `Swapping of Two Numbers.c`
+- **Description:**
+  This program demonstrates swapping of two numbers using the call-by-reference method. It defines a function `swapByReference` that exchanges the values of two variables using pointers.
+
+### Task 21: Union of Two Sorted Arrays
+
+- **File:** `Union of Two Sorted Arrays.c`
+- **Description:**
+  This program finds and prints the union of two sorted arrays. It compares elements from both arrays and prints them in sorted order, avoiding duplicate elements.
+
+### Task 22: Last Occurrences
+
+- **File:** `last_occurrences.c`
+- **Description:**
+  This program finds and prints the first and last occurrences of a given element in a sorted array.
+
+### Task 23: N Positive Integer
+
+- **File:** `positive_integer_sum.c`
+- **Description:**
+  This program checks if there exists a pair of elements in an array whose sum is equal to a given target sum.
+
+### Task 24: Second Largest Without Sorting
+
+- **File:** `second_largest_no_sorting.c`
+- **Description:**
+  This program finds and prints the second-largest distinct element in an array without sorting the array.
+
 Feel free to explore each program's source code to understand its functionality and purpose.
 
 ## How to Run
